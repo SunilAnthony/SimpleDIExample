@@ -1,0 +1,8 @@
+c:\users\sunil.anthony\documents\visual studio 2015\Projects\MailDependency\MailDependency\bin\Debug\MailDependency.exe.config
+c:\users\sunil.anthony\documents\visual studio 2015\Projects\MailDependency\MailDependency\bin\Debug\MailDependency.exe
+c:\users\sunil.anthony\documents\visual studio 2015\Projects\MailDependency\MailDependency\bin\Debug\MailDependency.pdb
+c:\users\sunil.anthony\documents\visual studio 2015\Projects\MailDependency\MailDependency\bin\Debug\Ninject.dll
+c:\users\sunil.anthony\documents\visual studio 2015\Projects\MailDependency\MailDependency\bin\Debug\Ninject.xml
+c:\users\sunil.anthony\documents\visual studio 2015\Projects\MailDependency\MailDependency\obj\Debug\MailDependency.csprojResolveAssemblyReference.cache
+c:\users\sunil.anthony\documents\visual studio 2015\Projects\MailDependency\MailDependency\obj\Debug\MailDependency.exe
+c:\users\sunil.anthony\documents\visual studio 2015\Projects\MailDependency\MailDependency\obj\Debug\MailDependency.pdb
